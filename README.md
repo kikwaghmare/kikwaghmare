@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kikwaghmare
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning android developement
-- 💞️ I’m looking to collaborate on android development
+- 👀 Enthusiast coder...
+- 🌱 I’m currently working as an android developer.
 - 📫 How to reach me ...kikwaghmare@gmail.com
 
 <!---
